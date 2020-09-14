@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-09-14T12:41:34.575Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.83 Safari/537.36" etag="GM7ZPEBDGO60GvsdDsSC" version="13.6.10" type="github">
+<mxfile host="app.diagrams.net" modified="2020-09-14T12:43:51.466Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.83 Safari/537.36" etag="8zHior7hqQCZOGb8RcVQ" version="13.6.10" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1896" dy="1016" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -100,11 +100,17 @@
         <mxCell id="b-WoiUY8-uhjvhbyDWzW-18" value="Exibir mensagem &quot;Aluno em recuperação&quot;&quot;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="990" y="354" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="b-WoiUY8-uhjvhbyDWzW-46" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="b-WoiUY8-uhjvhbyDWzW-30" target="b-WoiUY8-uhjvhbyDWzW-35">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="b-WoiUY8-uhjvhbyDWzW-30" value="Exibir mensagem &quot;Aluno precisa tirar (10 - Média) na prova final para ser aprovado" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="745" y="480" width="170" height="80" as="geometry" />
         </mxCell>
         <mxCell id="b-WoiUY8-uhjvhbyDWzW-32" value="Exibir mensagem &quot;Aluno precisa tirar (10 - Média + 2) na recuperação para ser aprovado" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="965" y="480" width="170" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="b-WoiUY8-uhjvhbyDWzW-48" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="b-WoiUY8-uhjvhbyDWzW-35" target="b-WoiUY8-uhjvhbyDWzW-36">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="b-WoiUY8-uhjvhbyDWzW-35" value="Desligar o computador" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="770" y="610" width="120" height="60" as="geometry" />
@@ -154,6 +160,15 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="260" y="640" as="sourcePoint" />
             <mxPoint x="310" y="590" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="b-WoiUY8-uhjvhbyDWzW-47" value="" style="edgeStyle=segmentEdgeStyle;endArrow=classic;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0.449;exitY=1.067;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="b-WoiUY8-uhjvhbyDWzW-32" target="b-WoiUY8-uhjvhbyDWzW-35">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1040" y="640" as="sourcePoint" />
+            <mxPoint x="1050" y="590" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1041" y="640" />
+            </Array>
           </mxGeometry>
         </mxCell>
       </root>
